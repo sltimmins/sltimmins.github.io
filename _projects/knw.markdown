@@ -6,6 +6,8 @@ permalink: /knw/
 
 Introduction to Engineering Design is a design and team based course. The course requires the design, construction, and implementation of a fully autonomous robot that must complete several tasks, such as navigating a maze, measuring the salinity percentage of a water sample and making a decision based on that reading, and the collection and deposit of items. During my time in this course I was behind the design, construction, and wiring of the physical robot and the implementation of the navigational code. I took this course in the Spring of 2020 and was consequently sent home due to Covid-19. When this happened tasks were split amongst our team and I took the navigational portion of the robot. The task for navigation for the remainder of the semester was to build and implement a system that could navigate through a maze, correct its direction of movement after motor slippage during turns. Below you can find images of the original robot's design modeled in Solidworks and the implementation of the navigational code written both completed by myself.
 
+I now serve as a teaching assistant for this class providing current students with technical knowledge and a teaming mentor. In this course TAs are assigned to individual teams in order to provide the students with someone they can feel comfortable discussing teaming issues. As a TA I also act as a mentor to the teams by providing technical know how and assistance when necessary.
+
 :-------------------------:|:-----------------------------:|:---------------------------:
 ![topView](/images/Top.jpg)|![frontView](/images/Front.jpg)|![sideView](/images/Side.jpg)
 
