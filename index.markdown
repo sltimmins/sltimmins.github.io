@@ -10,7 +10,7 @@ My name is Sam Timmins and I am a second year student at Southern Methodist Univ
 
 #### Skills:
   * Proficient in C++
-  * Strong understanding of Object Oriented Design and Implementation
+  * Strong understanding of Object-Oriented Design and Implementation
 
 #### Relevant Courses
   * Data Structures
