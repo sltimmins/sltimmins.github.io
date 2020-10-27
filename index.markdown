@@ -17,8 +17,8 @@ My name is Sam Timmins and I am a second year student at Southern Methodist Univ
   * Introduction to Engineering Design
   * Assembly Language Programming and Machine Organization
   * Programming Concepts
-  * Principles of Computer Scince 
+  * Principles of Computer Science 
 
-Previously, I have served as both a Junior Counselor and Instructor at an acclaimed summer camp called Camp Greenway, in northern Virginia. This was a valuable experience that taught me patience through listening to and entertaining thousands of questions at a time. I also learned valuable interpersonal skills working with such a wide variety of ages through the children, my co-workers, and superiors.
+Previously, I have served as both a Junior Counselor and Instructor at an acclaimed summer camp called Camp Greenway, in northern Virginia. This experience taught me patience through listening to and entertaining thousands of questions at a time. I also learned valuable interpersonal skills working with such a wide variety of ages through the children, my co-workers, and superiors.
 
-I also enjoy spending my free time working on cars and watching movies and TV. I have spent the last few years building a Jeep Wrangler to conquer any trail I could throw at it and was lucky enough to get to test it to its limit in Moab, Utah a few summers ago. I am also in the process of a frame off restoration of a 1948 Willys Pickup with my father.
+I also enjoy spending my free time working on cars and watching movies and TV, especially movies written and directed by Chistopher Nolan. I am also a huge Star Wars and Marvel buff. I have spent the last few years building a Jeep Wrangler to conquer any trail I could throw at it and was lucky enough to get to test it to its limit in Moab, Utah a few summers ago. I am also in the process of a frame off restoration of a 1948 Willys Pickup with my father.
