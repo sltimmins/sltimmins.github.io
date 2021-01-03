@@ -70,7 +70,7 @@ tree: 5, 8
 
 In the input file above, the numbers within the angle brackets represent the page numbers and the words following it all belong on that page. Then the individual words are separated by spaces with word phrases surrounded by square brackets. Lastly, if the word or phrase is meant to be a subentry of another word, the parent word will follow that word and be surrounded by parantheses. 
 
-To accomplish this task I created an Entry object with private data members that stored the word itself, the page numbers the word belonged on, and a vector of Entry objects containing that word's subentries if it had any. I then parsed through the input text file cadding the index entries to a linked list of entries while checking to see if the entry was already in the list. If the entry was already in the list I would instead add the page number to that specific entry in the list. I then used an overloaded outstream operator to output the entries in the correct format to the output file.
+To accomplish this task I created an Entry object with private data members that stored the word itself, the page numbers the word belonged on, and a vector of Entry objects containing that word's subentries if it had any. I then parsed through the input text file adding the index entries to a linked list of entries while checking to see if the entry was already in the list. If the entry was already in the list I would instead add the page number to that specific entry in the list. I then used an overloaded outstream operator to output the entries in the correct format to the output file.
 
 The GitHub repository of the complete algorithm can be found [here][auto-indexer-link].
 
