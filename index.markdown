@@ -13,7 +13,6 @@ My name is Sam Timmins and I am a second year student at Southern Methodist Univ
   * Object-Oriented Design and Implementation
   * Mac OS
   * Microsoft Windows
-  * Excel, Word, Powerpoint
   * Experience with Java
 
 #### Relevant Courses
