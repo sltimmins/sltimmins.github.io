@@ -6,7 +6,8 @@ layout: page
 title: About Me
 ---
 
-My name is Sam Timmins and I am a second year student at Southern Methodist University studying Computer Science. I currently serve in a leadership role in Hilltop Motorsports, an FSAE club, and as a teaching assistant for the Introduction to Engineering Design course at SMU. Details on projects I have worked on in the past are included in the Projects tab.  
+My name is Sam Timmins and I am a second year student at Southern Methodist University studying Computer Science. I currently serve in a leadership role in Hilltop Motorsports, an FSAE club, as a teaching assistant for the Introduction to Engineering Design course and Algorithms course at SMU as well as serve on the student advisory board to SMU's CIO.
+
 
 #### Skills:
   * Proficient in C++
