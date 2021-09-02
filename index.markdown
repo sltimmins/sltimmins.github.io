@@ -12,12 +12,15 @@ My name is Sam Timmins and I am a second year student at Southern Methodist Univ
 #### Skills:
   * Proficient in C++
   * Object-Oriented Design and Implementation
+  * Experience designing and implementing Node.js APIs for a MySQL RDS
   * Mac OS
   * Microsoft Windows
   * Experience with Java
 
 #### Relevant Courses
+  * Algorithms
   * Data Structures
+  * Database Concepts
   * Introduction to Engineering Design
   * Assembly Language Programming and Machine Organization
   * Programming Concepts
